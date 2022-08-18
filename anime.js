@@ -9,5 +9,5 @@ anime({
     return i * 900;
   },
   direction: "forward",
-  loop: true,
+  loop: false,
 });
